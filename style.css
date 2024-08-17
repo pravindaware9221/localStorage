@@ -1,0 +1,58 @@
+.Main-cantener {
+    display: block;
+    margin: 20px auto;
+
+}
+
+.Box-cantener {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+
+.bttn-cantener {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    margin: 50px;
+
+}
+
+.InputText {
+    height: 30px;
+    width: 300px;
+    font-size: larger;
+}
+
+.btn {
+    padding: 10px;
+    border-radius: 30px;
+    margin: 10px;
+    height: 50px;
+    width: 90px;
+    cursor: pointer;
+    background-color: black;
+    color: azure;
+    font-size: larger;
+}
+
+.title {
+    margin-top: 100px;
+}
+
+.btnn {
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 30px;
+    height: 50px;
+    width: 120px;
+    cursor: pointer;
+    font-size: larger;
+    background: red;
+    border: none;
+    color: black;
+}
+
+.btn2 {
+    display: none;
+}
